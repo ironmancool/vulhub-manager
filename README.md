@@ -122,7 +122,7 @@ vulhub-manager/
 - **分類篩選**：按應用分類篩選（如 nginx、apache、tomcat 等）
 - **僅顯示有 Exploit**：只顯示包含 Exploit 的環境
 - **僅顯示運行中**：只顯示正在運行的環境  
-- **僅顯示已有映像**：只顯示已下載映像的環境(當下環境，關閉之後不會自動去抓)
+- **僅顯示已有映像**：只顯示已下載映像的環境
 
 ## ⚠️ 安全提醒
 
@@ -157,9 +157,14 @@ MIT License - 詳見 LICENSE 文件
 - Email: pcc402@nyu.edu
 
 ## 📷 一些使用畫面截圖
-![第一次啟動](screenshots/first.png)
+
+### 第一次啟動
+![第一次啟動](screenshots/first_open.png)
+### 專案資料夾範例
 ![專案資料夾](screenshots/folder.png)
+### 開啟第一個漏洞
 ![開啟第一個漏洞](screenshots/example1.png)
+### 漏洞介面
 ![漏洞介面](screenshots/example2.png)
 
 ---
